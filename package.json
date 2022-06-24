@@ -110,6 +110,8 @@
     "react-toggle-component": "^3.0.8",
     "react-virtualized": "^9.22.3",
     "mobx": "^6.3.12",
-    "mobx-react-lite": "^3.2.3"
+    "mobx-react-lite": "^3.2.3",
+    "animate.css": "^4.1.1",
+    "animejs": "^3.2.1"
   }
 }
