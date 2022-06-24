@@ -87,6 +87,9 @@
     "yaml": "^2.1.1",
     "storejs": "^2.0.1",
     "typeorm": "^0.2.41",
-    "better-sqlite3": "^7.4.6"
+    "better-sqlite3": "^7.4.6",
+    "eth-sig-util": "^3.0.1",
+    "eth-url-parser": "^1.0.4",
+    "ethers": "5.4.7"
   }
 }
