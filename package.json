@@ -90,6 +90,9 @@
     "better-sqlite3": "^7.4.6",
     "eth-sig-util": "^3.0.1",
     "eth-url-parser": "^1.0.4",
-    "ethers": "5.4.7"
+    "ethers": "5.4.7",
+    "i18next": "^21.6.5",
+    "is-online": "^9.0.1",
+    "jsqr": "^1.4.0"
   }
 }
