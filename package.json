@@ -84,6 +84,9 @@
   },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
-    "yaml": "^2.1.1"
+    "yaml": "^2.1.1",
+    "storejs": "^2.0.1",
+    "typeorm": "^0.2.41",
+    "better-sqlite3": "^7.4.6"
   }
 }
